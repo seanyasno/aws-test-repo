@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3testappstorage9c29fd3d",
+  "bucketName": "test-app-storage-9c29fd3d",
+  "policyUUID": "48a1e31d",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "READ"
+  ]
+}
